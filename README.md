@@ -1,7 +1,7 @@
 # Omninet & Ultranet: Next-Generation Space-Based Communication Architecture
 ## Executive Briefing
 
-**Author:** Ángel Alejandro Pérez Plaza  
+**Author:** Angel Alejandro Pérez Plaza  
 **Title:** Chief Systems Architect, Aetherlink Services  
 **Contact:** `angelperezplz@protonmail.com`
 
